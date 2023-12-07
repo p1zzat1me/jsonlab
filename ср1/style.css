@@ -1,0 +1,28 @@
+body{
+    background-color: lightblue;
+}
+
+header {
+    text-align: center;
+    font-size: 50px;
+    margin: 0 auto;
+}
+
+h1,h2,h3,h4,h5,h6,ul, .education-group{
+    font-family: 'Times New Roman', sans-serif;
+    text-align: center;
+    list-style: none;
+}
+
+ul{
+    font-size: 30px;
+    list-style: none;
+}
+
+.card{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    padding: 11px 19px;
+    margin: 0 50px;
+}
